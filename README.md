@@ -15,10 +15,12 @@ This is a monorepo repository containing the back-end (server) and front-end (mo
 - Tailwind
 - Headless UI
 - Axios
+
 **Front-end mobile**
 - React native
 - Typescript
 - Axios
+
 **Back-end**
 - Node.js
 - Express
